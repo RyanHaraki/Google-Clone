@@ -9,7 +9,6 @@ DISCLAIMER: This was built from a YouTube tutorial. I used it to learn Next.js a
 - Next.js
 - TailwindCSS
 - HeroIcons
-- 
 - Google Programmable Search API
 
 ## Getting Started
